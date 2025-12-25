@@ -43,3 +43,4 @@ Then, deploy the application:
 firebase deploy --only hosting
 ```
 # Dental_Intellact
+# Dental_Intellact
