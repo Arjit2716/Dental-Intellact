@@ -42,5 +42,3 @@ Then, deploy the application:
 ```bash
 firebase deploy --only hosting
 ```
-# Dental_Intellact
-# Dental_Intellact
